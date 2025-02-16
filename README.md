@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitmehta575
-- 👀 I’m interested in AIML
-- 🌱 I’m currently learning In B.Tech (AIMl)
+- 👀 I’m interested in AIML.
+- 🌱 I’m currently learning In B.Tech (AIML)
 
 <!---
 sumitmehta575/sumitmehta575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
